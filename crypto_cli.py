@@ -24,5 +24,5 @@ def cli_print(coin):
 	message = "The price of " + coin.upper() + " is $"  + price
 	
 	return message
-# LOL it works
+# pass returned message to calling function, most likely main.
 
