@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------
 # The main application. This is what needs to be run to run the 
-# full application. Calls 6 function from 6 different script files.
+# full application. Calls 8 function from 8 different script files.
 # Author: Erv
 #------------------------------------------------------------------
 
